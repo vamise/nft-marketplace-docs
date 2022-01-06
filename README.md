@@ -1,4 +1,4 @@
-# docs.metaplex.com
+# nft.fyfy.io/docs
 
 # Audience
 
@@ -14,7 +14,7 @@
   - [ ] History
 
 - [ ] 2 Overview (please add pictures)
-  - [ ] Why/what Metaplex? Standards and tools to empower creation and usage of NFTs.
+  - [ ] Why/what NFT Marketplace? Standards and tools to empower creation and usage of NFTs.
   - [ ] Features
   - [ ] Metadata
   - [ ] Stores
